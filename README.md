@@ -38,13 +38,5 @@ circle:hover {
 
 ```
 
-**4. Remember:**
-
-  - Keep animations lightweight and well-timed to avoid overwhelming your users.
-  - Ensure your SVGs are accessible and optimized for different screen sizes.
-  - Test your implementations thoroughly across devices and browsers.
-
-**Bonus Tip:** Explore online SVG animation resources like SVGator and LottieFiles for inspiration and ready-made animations you can integrate into your Webflow site.
-
 # Need Help?
 Need a High Converting [SaaS Landing Page](https://epyc.in/)?
